@@ -15,21 +15,21 @@
  </section>
  <aside></aside>
 
- Special Characters:
+ #Special Characters:
 
- &nbsp;
+ <!-- &nbsp;
 
  &lt; &gt;
 
- he&apos;s
+ he&apos;s -->
 
-==>CSS Units:
-      1)Absolute Unites: 
+#==>CSS Units:
+      ###1)Absolute Unites: 
                         -cm
                         -inch
                         -px = 1/96 inch;
 
-      2)Relative Units:
+      ###2)Relative Units:
                         % : we can use "%" for percentage of parent unit.
                         50% means 50% of parent size;
 
@@ -44,7 +44,7 @@
 
       em : It is relative to Parent.
 
-==>CSS Add Border to an Elements:
+#==>CSS Add Border to an Elements:
       border-width = 10px;
       border-style = solid;
       border-color = blue;
@@ -54,7 +54,7 @@
       border-radius: 10px;
 
 
-==>Text Styling Using CSS :
+#==>Text Styling Using CSS :
       color
       font-size
       fonr-weight: bold/bolder/normal  
@@ -67,7 +67,7 @@
       text-decoration
 
 
-==>Adding Background to an element:
+#==>Adding Background to an element:
       background-image: url()
       beackground-repeat: no-repeat;
       background-position:centre/top/left/right/top ;
@@ -75,7 +75,7 @@
       background-attachment: scroll/fixed
 
 
-==> Margins & Padding:
+#==> Margins & Padding:
       Margin: It is nothing but space around that element i.e. outside;
               margin: 10px (all side)
               margin: 10px(top & bottom) 10px(left & right)
@@ -89,11 +89,11 @@
       
       Padding: It decides space within element;
 
-==> Display:(inline, block, inline-block)
+#==> Display:(inline, block, inline-block)
             we cannot set height & width of Inline elements;
 
 
-==> Position Property:
+#==> Position Property:
       static: exact position
       relative: relative to its original position
       absolute: relative to its parent
