@@ -85,3 +85,18 @@
               margin-bottom;
 
               vertical margins gets colapsed not added. 
+              horizontal margins gets add-up.
+      
+      Padding: It decides space within element;
+
+==> Display:(inline, block, inline-block)
+            we cannot set height & width of Inline elements;
+
+
+==> Position Property:
+      static: exact position
+      relative: relative to its original position
+      absolute: relative to its parent
+      fixed: will have fixed position on viewport
+      sticky: after certain threshhold behaves like fixed.
+            
