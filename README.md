@@ -24,12 +24,12 @@
  he&apos;s -->
 
 # ==>CSS Units:
-      ###1)Absolute Unites: 
+      ### 1)Absolute Unites: 
                         -cm
                         -inch
                         -px = 1/96 inch;
 
-      ###2)Relative Units:
+      ### 2)Relative Units:
                         % : we can use "%" for percentage of parent unit.
                         50% means 50% of parent size;
 
