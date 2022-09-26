@@ -99,4 +99,26 @@
       absolute: relative to its parent
       fixed: will have fixed position on viewport
       sticky: after certain threshhold behaves like fixed.
+
+# ==> Box Model:
+      Margin,Border,Padding,content
+      Two types of Models
+      By default it is set to content box models.
+  ## Content Box Models:
+   box-sizing: content-box;         
+            margin,Padding and border are exclusive of exact height and width.      
+            
+  ## Border Box Model:
+  box-sizing: border-box;
+            Everything is inclusive in whatever height and width we mention for an element/tag.
+
+            resultant dimensions are:
+            margin + border + padding + content
+
+# ==> min & max width:
+      min-width:
+
+      overflow: visible/hidden/scroll/auto;
+
+
             
